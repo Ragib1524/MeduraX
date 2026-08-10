@@ -1,2 +1,2 @@
-# MeduraX
+# MediNest
 My website repo
